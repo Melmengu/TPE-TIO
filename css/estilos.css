@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    margin: 0;
+    margin: 10;
     font-family: sans-serif;
 }
 header {
@@ -32,7 +32,7 @@ header label {
 }
 header label:hover {
     cursor: pointer;
-    background: rgba(167, 154, 154, 0.6);
+    background: #232323;
 }
 .menu ul {
     margin: 0;
@@ -45,7 +45,7 @@ header label:hover {
     width: 20%;
 }
 .menu li:hover {
-    background: rgba(163, 154, 154, 0.6);
+    background: #454544;
 }
 .menu li a {
     display: block;
@@ -128,7 +128,7 @@ header label:hover {
 }
 .columna1 {
     display: inline-block;
-    width: 49%;
+    width: 77%;
     float: left;
     
 }
